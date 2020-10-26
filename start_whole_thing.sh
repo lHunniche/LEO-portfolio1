@@ -1,4 +1,3 @@
-cd /home/pi/scripts/
 echo "Starting traffic light"
 python3 traffic_light.py &
 echo "Starting network listener"
