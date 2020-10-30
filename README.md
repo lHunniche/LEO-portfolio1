@@ -11,3 +11,5 @@ The "swap_state.py" script is also the script that is called, when the button is
 Only thing it does is wait for a button press. Following a button press it runs the "swap_state.py" script, and then waits for another press.  
 
 Everything is started with the "start_whole_thing.sh" script. 
+
+WARNING: Assignment asks that the Green LED is on from the start. This solution, however, starts with the Red light turned on.
